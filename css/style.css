@@ -19,6 +19,9 @@ nav {
   opacity: 85%;
 }
 
+strong{
+  font-weight: bolder;
+}
 
 li {
   display: inline;
@@ -36,7 +39,7 @@ li {
 }
 
 #intro-line {
-  margin-top: 25%;
+  margin-top: 15%;
   color: aliceblue;
   z-index: 10;
   font-family: 'Roboto Slab', serif;
@@ -50,4 +53,8 @@ li {
   height: fit-content;
   text-overflow: ellipsis;
   margin: 2em;
+}
+
+.connect-header:hover {
+  opacity: 0.7;
 }
