@@ -3,7 +3,6 @@
 html, body {
     background:url('../img/black-back.jpg');
     background-size: cover;
-    height: 95vh;
     margin: 0;
     padding: 0;
     overflow: hidden;
