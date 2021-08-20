@@ -5,7 +5,6 @@ html, body {
     background-size: cover;
     margin: 0;
     padding: 0;
-    overflow: hidden;
     color: aliceblue;
     z-index: -1;
 }
@@ -48,7 +47,7 @@ strong{
 }
 
 .table {
-  width: 65vw;
+  width: 75vw;
   overflow: hidden;
   margin: 2em;
 }
